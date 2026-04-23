@@ -1,1 +1,11 @@
-Analysis Phase 
+Analysis Phase
+
+The main goal of the Analysis Phase is to understand the business problem, identify user needs, gather complete requirements, and define what the software system must do before design and development begin.
+
+Three important roles involved in the Analysis Phase are Business Analyst, Product Owner, and Project Manager.
+
+Two common tools or techniques used in the Analysis Phase are interviews and JIRA.
+
+Missing requirements can affect the whole SDLC by causing misunderstandings in design, errors in development, failed tests, delayed delivery, and costly rework after release.
+
+A real-world example is the FBI Virtual Case File (VCF) project, which suffered from unclear and changing requirements, leading to delays, budget overruns, and eventual failure.
