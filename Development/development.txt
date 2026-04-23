@@ -1,1 +1,11 @@
-Development Phase 
+Development Phase
+
+During the Development Phase, programmers implement the system by writing code based on the design specifications, building features, and ensuring that the application functions correctly.
+
+Front-end development focuses on building the user interface and user experience, while back-end development handles the server logic, database operations, and core system functionality.
+
+Common tools used in development include GitHub for version control, Visual Studio Code for coding, and frameworks like Spring Boot for building backend systems.
+
+Version control is essential because it allows developers to track changes, collaborate safely, manage different versions of code, and recover from errors efficiently.
+
+A real-world example of failure due to poor development practices is the Knight Capital incident, where a faulty code deployment caused massive financial losses.
