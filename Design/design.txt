@@ -1,1 +1,9 @@
-Design Phase 
+Design Phase
+
+The main deliverables of the Design Phase include system architecture diagrams, UI/UX designs, database design, and technical specifications.
+
+Common tools used in the Design Phase include Figma, UML diagrams, and Lucidchart.
+
+System design focuses on how the system works internally, including architecture and data flow, while UI/UX design focuses on how the system looks and how users interact with it.
+
+A real-world example of poor design is the Healthcare.gov website, where weak system design and lack of scalability caused major failures during launch, increasing cost and failure risk.
