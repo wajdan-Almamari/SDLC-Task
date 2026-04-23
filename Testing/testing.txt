@@ -1,1 +1,11 @@
-Testing Phase 
+Testing Phase
+
+The purpose of the Testing Phase is to identify bugs, errors, and defects in the system and ensure that the software meets the required quality standards before release.
+
+Three common types of testing are Unit Testing, Integration Testing, and System Testing.
+
+Common testing tools include Selenium for automation testing, Postman for API testing, and JMeter for performance testing.
+
+Automated testing improves efficiency by saving time, reducing human error, and allowing repeated execution of tests quickly and consistently.
+
+Large companies like Google rely on extensive testing to detect and fix critical bugs before release, preventing system failures and improving user experience.
