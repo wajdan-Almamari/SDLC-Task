@@ -1,1 +1,11 @@
-Deployment Phase 
+Deployment Phase
+
+Deployment in SDLC is the process of releasing the completed software to a live environment where it becomes available for real users.
+
+Two common deployment models are Manual Deployment and Continuous Deployment.
+
+Common deployment tools include Jenkins, AWS, and Docker.
+
+DevOps practices support deployment by automating processes, improving collaboration between development and operations teams, and enabling faster, more reliable software releases.
+
+A real-world example is the Facebook outage in 2021, where a deployment-related configuration error caused global downtime affecting Facebook, Instagram, and WhatsApp.
