@@ -1,1 +1,11 @@
-Maintenance Phase 
+Maintenance Phase
+
+The Maintenance Phase never truly ends because software systems require continuous updates, bug fixes, performance improvements, and adaptation to changing user needs and technologies.
+
+Three common maintenance activities are bug fixing, security updates, and system monitoring.
+
+Two tools used for tracking and maintaining systems are GitHub Issues and Zendesk.
+
+User feedback helps identify issues, prioritize updates, and improve user experience. It allows developers to understand real user needs and make better maintenance decisions.
+
+A good example is Google services, where continuous monitoring and regular updates help prevent system crashes and ensure high availability.
